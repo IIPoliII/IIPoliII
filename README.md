@@ -2,4 +2,4 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=IIPoliII&layout=compact&show_icons=true&theme=dark)
 
-![SheepIt Render Farm profile](https://www.sheepit-renderfarm.com/user/Poli/profile)
+[SheepIt Render Farm profile](https://www.sheepit-renderfarm.com/user/Poli/profile)
