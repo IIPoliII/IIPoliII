@@ -5,6 +5,6 @@
 ## About me
 
 - ✨ Creating bugs since 2017
-- 🐧 I love Ubuntu and Canocial way too much.
+- 🐧 I love Ubuntu and Canonical way too much.
 - 🎯 Goals: grow Poli Systems even more!
 - 🎲 And ... i love ⛷️Skiing & 🚗 cars & 🏍️ bikes
