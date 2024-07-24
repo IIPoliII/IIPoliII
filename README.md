@@ -1,4 +1,4 @@
-<h1>Hey 👋 What's up?</h1>
+## Hey 👋 What's up?
 
 <p>My name is Poli and I'm a SysAdmin, from <b>Switzerland</b>. </p>
 
