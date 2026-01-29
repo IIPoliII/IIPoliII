@@ -9,4 +9,4 @@
 - 🎯 Goals: grow Poli Systems even more!
 - 🎲 And ... i love ⛷️Skiing & 🚗 cars & 🏍️ bikes
 
-![Background](https://raw.githubusercontent.com/IIPoliII/IIPoliII/refs/heads/main/background.jpg)
+![Background](https://raw.githubusercontent.com/IIPoliII/IIPoliII/refs/heads/main/background.png)
